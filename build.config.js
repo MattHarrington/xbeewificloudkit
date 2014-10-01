@@ -91,7 +91,7 @@ module.exports = {
       'vendor/respond/respond.min.js',
       'vendor/raphael/raphael-min.js',
       'vendor/highlight.js/build/highlight.pack.js',
-      'vendor/justgauge/justgage.js',
+      'vendor/justgage/justgage.js',
       'vendor/toastr/toastr.js'
     ].concat(
       // Adding the jQuery UI files this way makes it easy to change the subset
